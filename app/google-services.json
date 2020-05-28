@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1052190547831",
+    "firebase_url": "https://digitalizedrestaurant-aae19.firebaseio.com",
+    "project_id": "digitalizedrestaurant-aae19",
+    "storage_bucket": "digitalizedrestaurant-aae19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052190547831:android:dab722bf5f326db3",
+        "android_client_info": {
+          "package_name": "com.example.shafi.digitalizedrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052190547831-7ufnlinbvj5ihmrd33i03p6qesde9fum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shafi.digitalizedrestaurant",
+            "certificate_hash": "88b4d7248ab51da21e65a2d055f123cb9180e959"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBnnrZAEjd6IR7sZ0U0FM87twHcKPLMzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052190547831-l81mssn856kjn3hcipdd8lmvpiqf3ioe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
